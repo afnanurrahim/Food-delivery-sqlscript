@@ -8,7 +8,7 @@ This SQL project showcases the design and implementation of a Snowflake schema f
 
 * <ins>Oracle's LiveSQL Analysis:</ins> Leveraging Oracle's LiveSQL, a web-based SQL editor with an embedded Oracle database, the project delves into the analysis of food delivery app data. This powerful platform allows for querying, exploration, and answering 22 real-world questions related to app operations, user behavior, order trends, and more.
 
-* <ins>Real-World Questions:</ins> The project goes beyond schema design to address practical challenges faced in the food delivery industry. By answering 22 real-world questions, the project provides actionable insights and data-driven solutions for app optimization and business growth.
+* <ins>Real-World Questions:</ins> The project goes beyond schema design to address practical challenges faced in the food delivery industry. By answering [22 real-world questions](https://github.com/afnanurrahim/Food-delivery-sqlscript/blob/main/questions.txt), the project provides actionable insights and data-driven solutions for app optimization and business growth.
 
 <img src="https://github.com/afnanurrahim/Food-delivery-sqlscript/blob/main/swiggy_schema.png" alt="Schema design" title="Schema design"
      width="300" height="200"/>
