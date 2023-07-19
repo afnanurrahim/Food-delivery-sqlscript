@@ -1,0 +1,43 @@
+1. Identify users who have not placed any orders yet.
+
+2. Determine the most commonly ordered food item across all restaurants.
+
+3. Calculate the average price of food items available in the database.
+
+4. Analyze orders placed in restaurants specifically during the seventh month.
+
+5. Identify restaurants that generated sales exceeding $500 in the sixth month.
+
+6. Discover the most active users based on the frequency of their orders.
+
+7. Determine the most popular food item ordered by customers.
+
+8. Find the most loyal customer for each restaurant, based on their order frequency.
+
+9. Reveal the favorite food of each user in the database.
+
+10. Identify the delivery partner with the highest number of completed orders.
+
+11. Locate delivery partners who have not received any orders.
+
+12. Discover food items that are exclusively available in only one restaurant.
+
+13. Determine the most popular restaurant based on the number of orders received.
+
+14. Calculate the average order amount for each user in the database.
+
+15. Analyze the most popular cuisine among all the restaurants.
+
+16. Calculate the average delivery time for each delivery partner.
+
+17. Evaluate the average delivery rating for each delivery partner.
+
+18. Rank restaurants based on their customer ratings.
+
+19. Identify restaurants that exclusively serve vegetarian food.
+
+20. Discover the favorite cuisine of each user in the database.
+
+21. Find users who prefer vegetarian food items.
+
+22. Determine the most popular food items served by each restaurant.
